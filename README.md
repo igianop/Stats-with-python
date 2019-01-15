@@ -1,2 +1,5 @@
 # Stats-with-python
-A request from an api to calculate some statistics
+This package use **StackExchange API** to collect and return calculated statistics
+To be able to use it you must first check the python version of your machine (supports Python 2.7 and above),
+after that you must run from cmd:
+$ pip install requests
